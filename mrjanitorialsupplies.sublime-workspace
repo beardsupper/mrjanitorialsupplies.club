@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 152881,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					37,
+					1,
+					"",
+					null,
+					"AQAAACVTAQAAAAAAJVMBAAAAAACyAwAAIDxkaXYgY2xhc3M9IndwYl9yb3cgdmNfaW5uZXIgdmNfcm93ICB2Y19yb3ctZmx1aWQgICBhdHRjaGVkLWZhbHNlIHZjX3Jvdy1mbHVpZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndwYl9jb2x1bW4gdmNfY29sdW1uX2NvbnRhaW5lciB2Y19jb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmNfY29sdW1uLWlubmVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3cGJfd3JhcHBlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMiBzdHlsZT0iZm9udC1zaXplOiAzMnB4O3RleHQtYWxpZ246Y2VudGVyO2NvbG9yOiAjMTA3ZjRmO2ZvbnQtc3R5bGU6aW5oZXJpdDtmb250LXdlaWdodDpib2xkO3BhZGRpbmctdG9wOjBweDtwYWRkaW5nLWJvdHRvbTowcHg7IHRleHQtdHJhbnNmb3JtOmluaXRpYWw7bGV0dGVyLXNwYWNpbmc6MHB4OyIgaWQ9ImZhbmN5LXRpdGxlLTYxOTNkZDlmNzBmMTMiIGNsYXNzPSJtay1zaG9ydGNvZGUgbWstZmFuY3ktdGl0bGUgZmFuY3ktdGl0bGUtYWxpZ24tY2VudGVyIHNpbXBsZS1zdHlsZSAiPjxzcGFuIHN0eWxlPSIiPlNlYXNvbmFsIEZseWVyczwvc3Bhbj48L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhcmJvdGgiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg",
+					"AQAAAAAAAAABAAAAJVMBAAAAAADXVgEAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/urinal-screens/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/promotions/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/preparedness/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/nilfisk/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/matting/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/laundry/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/health/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/environment/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/category/cleaning/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/author/admin/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/are-you-ready/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/about-us/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/5-key-germ-fighting-tips/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/why-us/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/spring-promotion/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/waste-control-and-recycling/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/washroom-products/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/shipping-packaging-and-warehousing/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/safety-supplies/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/olympus-tru-grit/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/office-supplies/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/odour-control/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/miscellaneous/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/matting/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/material-handling/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/kitchen-and-laundry/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/food-service-disposables/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/floor-care/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/cleaning-supplies/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/cleaning-equipment/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/brooms-brushes-and-mops/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/products/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/partners/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/nilfisk-advance-sc1500/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/news/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/matting-season-is-almost-here/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/make-your-floors-shine/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/laundry-warewash/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2014/08/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2014/05/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2014/03/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2014/02/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2013/11/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2013/10/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2013/08/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/2013/05/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/incandescent-light-bulb-phase-out/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/history/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/have-you-seen-the-ekcoscreen/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/downloads/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/contact/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/4.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/350.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/686.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/687.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/364.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/352.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/353.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/354.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/362.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/358.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/359.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/363.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/288.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/355.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|kitchen-and-laundry|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|miscellaneous|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|news|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|waste-control-and-recycling|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|history|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|shipping-packaging-and-warehousing|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|about-us|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|cleaning-equipment|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|food-service-disposables|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|partners|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|matting|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|contact|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|floor-care|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|floor-care|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|why-us|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|office-supplies|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|material-handling|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|washroom-products|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|odour-control|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|shipping-packaging-and-warehousing|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|safety-supplies|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|food-service-disposables|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|waste-control-and-recycling|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|cleaning-supplies|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|downloads|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|miscellaneous|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|washroom-products|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|kitchen-and-laundry|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|about-us|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|why-us|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|downloads|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|odour-control|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|partners|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|history|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|news|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|cleaning-equipment|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|cleaning-supplies|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|material-handling|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|office-supplies|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|matting|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|safety-supplies|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|contact|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/356.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/360.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/361.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/286.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/290.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/357.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/262.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/index.html",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/posts/514.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/561.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/wp/v2/pages/292.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|spring-promotion|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|olympus-tru-grit|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|.json",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|brooms-brushes-and-mops|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|products|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|nilfisk-advance-sc1500|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|matting-season-is-almost-here|&format=xml.xml",
+		"/Users/admin/Downloads/www.mrjanitorialsupplies.com/wp-json/oembed/1.0/embed-url=https_||www.mrjanitorialsupplies.com|make-your-floors-shine|&format=xml.xml"
+	],
+	"find":
+	{
+		"height": 171.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/Users/admin/Downloads/www.mrjanitorialsupplies.com,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" <div class=\"wpb_row vc_inner vc_row  vc_row-fluid   attched-false vc_row-fluid\">\n                                    <div class=\"wpb_column vc_column_container vc_col-sm-12\">\n                                        <div class=\"vc_column-inner\">\n                                            <div class=\"wpb_wrapper\">\n                                                <h2 style=\"font-size: 32px;text-align:center;color: #107f4f;font-style:inherit;font-weight:bold;padding-top:0px;padding-bottom:0px; text-transform:initial;letter-spacing:0px;\" id=\"fancy-title-6193dd9f70f13\" class=\"mk-shortcode mk-fancy-title fancy-title-align-center simple-style \"><span style=\"\">Seasonal Flyers</span></h2>\n                                                <div class=\"clearboth\"></div>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>",
+			"seasonal ",
+			"<div class=\"mk-main-wrapper-holder\"><div class=\"theme-page-wrapper no-padding full-layout mk-grid vc_row-fluid row-fluid\"><div class=\"theme-content no-padding\"><div class=\"wpb_row vc_row  vc_row-fluid  mk-fullwidth-false  attched-false vc_row-fluid\">\n\t<div style=\"\" class=\"vc_col-sm-12 wpb_column column_container \">\n\t\t\t<div class=\"wpb_row vc_inner vc_row  vc_row-fluid hidden-sm  attched-false vc_row-fluid\"><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Winter-Promotion-2016.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Winter-Promotion-2016-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Salt-Buster.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Salt-Buster-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Entrance-Matting.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Entrance-Matting-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Concrobium.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Concrobium-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Cold-Flu-Gojo.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Cold-Flu-Gojo-1-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-2\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/ax500.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/ax500-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div></div><div class=\"wpb_row vc_inner vc_row  vc_row-fluid visible-sm add-padding-0 attched-true vc_row-fluid\"><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Winter-Promotion-2016.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Winter-Promotion-2016-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Salt-Buster.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Salt-Buster-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div></div><div class=\"wpb_row vc_inner vc_row  vc_row-fluid visible-sm add-padding-0 attched-true vc_row-fluid\"><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Entrance-Matting.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Entrance-Matting-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Concrobium.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Concrobium-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div></div><div class=\"wpb_row vc_inner vc_row  vc_row-fluid visible-sm add-padding-0 attched-true vc_row-fluid\"><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/Cold-Flu-Gojo.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/Cold-Flu-Gojo-1-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div><div class=\"wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\t<div style=\"text-align: center;\" class=\"mk-text-block  true\"><p><a href=\"wp-content/uploads/2016/11/ax500.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"wp-content/uploads/2016/11/ax500-min.jpg\"></a></p>\n<div class=\"clearboth\"></div></div> </div></div></div></div>\n\t</div></div><div class=\"clearboth\"></div></div></div></div>",
+			"pamphlet",
+			"\n<div class=\"custom-footer\">Copyright All Rights Reserved &copy; 2021 - Mr. Janitorial Supplies <br><span style=\"font-size: 14px;\" class=\"design-credit\">Website by <a href=\"http://intelligence.is\" target=\"_blank\" class=\"iris-credit\">Iris</a></span></div>",
+			"<li id=\"menu-item-305\" class=\"menu-item menu-item-type-post_type menu-item-object-page no-mega-menu\"><a class=\"menu-item-link\"  href=\"downloads/index.html\">Downloads</a></li>",
+			"\n<li id=\"menu-item-305\" class=\"menu-item menu-item-type-post_type menu-item-object-page no-mega-menu\"><a class=\"menu-item-link\"  href=\"../downloads/index.html\">Downloads</a></li>",
+			" href=\"downloads/index.html\">Downloads</a>",
+			"href=\"downloads/index.html\">Downloads</a>",
+			"<li id=\"menu-item-305\" class=\"menu-item menu-item-type-post_type menu-item-object-page no-mega-menu\"><a class=\"menu-item-link\"  href=\"downloads/index.html\">Downloads</a></li>",
+			"\n<li id=\"menu-item-305\" class=\"menu-item menu-item-type-post_type menu-item-object-page no-mega-menu\"><a class=\"menu-item-link\"  href=\"downloads/index.html\">Downloads</a></li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<div class=\"custom-footer\">Copyright All Rights Reserved © 2021 - GSR27 HOLDINGS LTD. D.B.A Mr. Janitorial Supplies </div>",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86821,
+								86821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1637088251.81,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 32107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "mrjanitorialsupplies.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
